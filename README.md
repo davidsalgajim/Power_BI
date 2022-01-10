@@ -1,2 +1,1 @@
-# power_bi_report
-report which was build for Waggle
+In this repositories I have some projects that has been done in Power BI
