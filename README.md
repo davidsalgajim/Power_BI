@@ -1,1 +1,1 @@
-In this repositories I have some projects that has been done in Power BI
+I have some projects in these repositories that I have done in Power BI.
